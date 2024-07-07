@@ -2,8 +2,8 @@ spring:
   datasource:
     driver-class-name: com.microsoft.sqlserver.jdbc.SQLServerDriver
     url: jdbc:sqlserver://localhost;database=angularspringbootecommerce;encrypt=false
-    username: sa
-    password: password
+    username: vishnu
+    password: Jvishnu123@
   jpa:
     show-sql: true
     properties:
